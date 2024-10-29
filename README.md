@@ -1,2 +1,2 @@
 # LC_MongoDB
-敬请期待...
+.net MongoDB新增/分页等demo
