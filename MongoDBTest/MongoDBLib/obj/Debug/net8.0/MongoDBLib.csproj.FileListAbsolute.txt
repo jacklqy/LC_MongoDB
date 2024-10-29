@@ -1,0 +1,12 @@
+E:\MongoDBTest\MongoDBTest\MongoDBLib\bin\Debug\net8.0\MongoDBLib.deps.json
+E:\MongoDBTest\MongoDBTest\MongoDBLib\bin\Debug\net8.0\MongoDBLib.dll
+E:\MongoDBTest\MongoDBTest\MongoDBLib\bin\Debug\net8.0\MongoDBLib.pdb
+E:\MongoDBTest\MongoDBTest\MongoDBLib\obj\Debug\net8.0\MongoDBLib.csproj.AssemblyReference.cache
+E:\MongoDBTest\MongoDBTest\MongoDBLib\obj\Debug\net8.0\MongoDBLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\MongoDBTest\MongoDBTest\MongoDBLib\obj\Debug\net8.0\MongoDBLib.AssemblyInfoInputs.cache
+E:\MongoDBTest\MongoDBTest\MongoDBLib\obj\Debug\net8.0\MongoDBLib.AssemblyInfo.cs
+E:\MongoDBTest\MongoDBTest\MongoDBLib\obj\Debug\net8.0\MongoDBLib.csproj.CoreCompileInputs.cache
+E:\MongoDBTest\MongoDBTest\MongoDBLib\obj\Debug\net8.0\MongoDBLib.dll
+E:\MongoDBTest\MongoDBTest\MongoDBLib\obj\Debug\net8.0\refint\MongoDBLib.dll
+E:\MongoDBTest\MongoDBTest\MongoDBLib\obj\Debug\net8.0\MongoDBLib.pdb
+E:\MongoDBTest\MongoDBTest\MongoDBLib\obj\Debug\net8.0\ref\MongoDBLib.dll
